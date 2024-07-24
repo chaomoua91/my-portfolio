@@ -1,4 +1,4 @@
 # React + Vite
 
-my own portfolio website
+my personal portfolio website
 It's about me
